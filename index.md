@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Parenting
+tagline: is my #1 hobby
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 
-Here's a sample "posts list".
+## Latest Posts
 
 <ul class="posts">
   {% for post in site.posts %}

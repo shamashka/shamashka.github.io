@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Parenting
-tagline: is my number 1 hobby
+tagline: The Labour of Love
 ---
 {% include JB/setup %}
 

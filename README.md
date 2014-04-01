@@ -1,2 +1,0 @@
-shamashka.github.io
-===================

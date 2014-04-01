@@ -4,4 +4,5 @@ category : tests
 tagline: "tag line"
 tags : [intro, beginner]
 --- 
-## happy to be blogging mom
+ to be a blogging mom... Wow :)
+

@@ -5,7 +5,7 @@ tagline: "Slumber"
 tags : [sleep, soother, milestones]
 ---
 
-A deeply touching moment: 
+A deeply touching moment.
 
 Witnessing my five-and-a-half-month-old make his first attempts of intentionally taking the 
 soother and putting it into his mouth as I lay him for a morning nap. 

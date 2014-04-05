@@ -1,7 +1,7 @@
 ---
 layout: post
 category : tests
-tagline: "tag line"
+tagline: 
 tags : [intro, beginner]
 --- 
  to be a blogging mom... Wow :)

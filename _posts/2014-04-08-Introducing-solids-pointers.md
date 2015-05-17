@@ -6,7 +6,7 @@ tags : [introducing solids, feeding]
 
 ---
 
-* ######Share mealtime
+* #####Share mealtime
   * let your baby participate in the family dinners - bring the rocker to the table, or whatever your baby lounges in. Once your baby is able to sit for some time with supported back, get the high hair and her sit in the high hair during the meals. She may play with some of her toys, watch you eat and get to know the smells and looks of your food. Be an example toy your child.
 
 * ######Let them sample

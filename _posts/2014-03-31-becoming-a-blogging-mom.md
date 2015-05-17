@@ -4,5 +4,5 @@ category : tests
 tagline: 
 tags : [intro, beginner]
 --- 
- to be a blogging mom... Wow :)
+To be a blogging mom... Wow :)
 

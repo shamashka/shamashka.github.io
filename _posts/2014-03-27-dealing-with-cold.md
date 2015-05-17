@@ -9,7 +9,7 @@ Ivan just had his second sniffles. It lasted about five days total and was very 
 
 1. We caught the onset early on and started treating immediately.
 
-2. We kept giving him homeopathic remedy for cold for babies: [ Boiron's Coryzalia ] ( http://boiron.ca/products/children/coryzalia-children/) 
+2. We kept giving him homeopathic remedy for cold for babies: [Boiron's Coryzalia](http://boiron.ca/products/children/coryzalia-children/) 
 
 3. We used a good nasal aspirator whenever it seemed like his nose it too stuffed for him to relax. Definitely add [Hydrasense](http://www.hydrasense.ca/en/products/details/2) to your gift registry, or shopping list, it will come in handy, and it's amazingly effective and easy to use.
 

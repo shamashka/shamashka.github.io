@@ -4,7 +4,7 @@ category: breastfeeding
 Tagline: help with breastfeeding difficulties
 tags : [breastfeeding, LLLI, overactive letdown, milk oversupply, block feeding ]
 ---
-- - if you are wondering about whether everything is going well with the breastfeeding, or you have an immediate concern in the middle of the night and breastfeeding consultants are not available through 24/7 hotline, go to [La Leche League website] (http:/www.llli.org). There you can search by keyword for a particular issue you are having and you will get great answers and explanations and suggestions on what to do. Many times I had my worries eased thanks to LLL.
+- if you are wondering about whether everything is going well with the breastfeeding, or you have an immediate concern in the middle of the night and breastfeeding consultants are not available through 24/7 hotline, go to [La Leche League website] (http:/www.llli.org). There you can search by keyword for a particular issue you are having and you will get great answers and explanations and suggestions on what to do. Many times I had my worries eased thanks to LLL.
 If you are more into flipping the physical pages, get "The Womanly Art of Breastfeeding" - you can find it in the library. That's a book the size of the Lord of the Rings trilogy, and it has every possible detail on breastfeeding and related issues. When I first saw it, I though no way so much can be written on such simple topic as breastfeeding! How complex can it be? Put baby on breast - let baby suck. Different positions and issues, I thought, would fit into a brochure... Boy, was I wrong! 
 
 This is the issue I am currently dealing with: Breastmilk oversupply and overactive letdown. 
